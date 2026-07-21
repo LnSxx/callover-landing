@@ -15,7 +15,7 @@ Account deletion is irreversible. Once your account has been deleted, you will n
 
 Use the button below to sign in and permanently delete your Callover account.
 
-[Sign in to delete your account](/delete-account/sign-in)
+[Sign in to delete your account](/delete-account/flow)
 
 Signing in does not delete your account automatically. You will see a separate confirmation screen before deletion.
 

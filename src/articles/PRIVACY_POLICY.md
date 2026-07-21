@@ -1,6 +1,6 @@
 # Privacy policy
 
-Last updated: July 19, 2026
+Last updated: July 21, 2026
 
 ## 1. Who operates Callover
 
@@ -678,7 +678,24 @@ To exercise a privacy right, contact:
 
 We may need to verify that you control the relevant account before fulfilling a request.
 
-## 16. EEA and UK complaints
+## 16. Cookies
+
+The Callover website does not use advertising, analytics, or tracking cookies.
+
+When you sign in to delete your account, Callover stores a strictly necessary
+session cookie named `sessionId`.
+
+This cookie is used only to authenticate your account and protect the account
+deletion process. It is not used for analytics, advertising, or cross-site
+tracking.
+
+The cookie is HTTP-only and cannot be accessed by website scripts. It is
+removed when you sign out, delete your account, or when the session expires.
+
+You can block cookies through your browser settings, but you will not be able
+to sign in or delete your account through the website without this cookie.
+
+## 17. EEA and UK complaints
 
 Users in the European Economic Area may submit a complaint to the data-protection authority in the country where they live, work, or believe an infringement occurred.
 
@@ -686,7 +703,7 @@ Users in the United Kingdom may submit a complaint to the UK Information Commiss
 
 We encourage you to contact us first so we can review and respond to your concern.
 
-## 17. Age restriction
+## 18. Age restriction
 
 Callover is intended only for users who are at least 18 years old.
 
@@ -696,13 +713,13 @@ We do not knowingly collect personal data from children. If we learn that a pers
 
 A parent, guardian, or other person may report a suspected underage account by contacting [callovercommunications@gmail.com](mailto:callovercommunications@gmail.com).
 
-## 18. Free service and payments
+## 19. Free service and payments
 
 Callover is provided without subscription fees, in-app purchases, paid content, or paid communication features.
 
 Callover does not collect or process payment-card, billing, or purchase information.
 
-## 19. No advertising or sale of data
+## 20. No advertising or sale of data
 
 Callover does not display third-party advertising.
 
@@ -718,7 +735,7 @@ Callover does not use personal data for targeted advertising.
 
 Callover does not use account activity to create commercial advertising profiles.
 
-## 20. Changes to this Privacy Policy
+## 21. Changes to this Privacy Policy
 
 We may update this Privacy Policy when:
 
@@ -738,7 +755,7 @@ Where required, we will provide an in-app, email, or other appropriate notice be
 
 Your continued use of Callover after an update takes effect is subject to the updated Privacy Policy, except where applicable law requires additional consent.
 
-## 21. Contact
+## 22. Contact
 
 Data controller:
 

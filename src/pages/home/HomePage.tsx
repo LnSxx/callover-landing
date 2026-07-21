@@ -3,7 +3,7 @@ import "../../index.css";
 import Layout from "../../layout/Layout";
 import home from "../../articles/HOME.md?raw";
 
-export default function Home() {
+export default function HomePage() {
   return (
     <Layout>
       <article className="legal-document">
