@@ -1,3 +1,4 @@
+import { NavLink } from "react-router";
 import Logo from "../assets/logo.svg?react";
 
 function Layout({ children }: { children: React.ReactNode }) {
@@ -6,17 +7,16 @@ function Layout({ children }: { children: React.ReactNode }) {
       <header className="page-header">
         <div className="flex items-center">
           <Logo className="size-8" />
-          <a className="brand" href="/" aria-label="Callover home">
+
+          <NavLink className="brand" to="/" aria-label="Callover home">
             Callover
-          </a>
+          </NavLink>
         </div>
 
         <nav className="page-nav" aria-label="Legal pages">
-          <a href="/privacy" aria-current="page">
-            Privacy Policy
-          </a>
+          <NavLink to="/privacy">Privacy Policy</NavLink>
 
-          <a href="/delete-account">Delete Account</a>
+          <NavLink to="/delete-account">Delete Account</NavLink>
         </nav>
       </header>
 
@@ -24,6 +24,7 @@ function Layout({ children }: { children: React.ReactNode }) {
 
       <footer className="page-footer">
         <span>© {new Date().getFullYear()} Callover</span>
+
         <a href="mailto:callovercommunications@gmail.com">
           callovercommunications@gmail.com
         </a>
