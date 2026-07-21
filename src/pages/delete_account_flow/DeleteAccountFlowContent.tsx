@@ -14,11 +14,13 @@ function DeleteAccountFlowContent() {
     return <DeleteAccountCompleted />;
   }
 
-  if (step === "confirmation") {
-    <DeleteAccountConfirmation
-      authenticatedUser={authenticatedUser}
-      onDeleted={() => setStep("completed")}
-    />;
+  if (step === "confirmation" && authenticatedUser) {
+    return (
+      <DeleteAccountConfirmation
+        authenticatedUser={authenticatedUser}
+        onDeleted={() => setStep("completed")}
+      />
+    );
   }
 
   return (
