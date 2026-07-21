@@ -1,4 +1,6 @@
 import "../../index.css";
+import ReactMarkdown from "react-markdown";
+import privacyPolicy from "../../articles/PRIVACY_POLICY.md?raw";
 
 export default function Home() {
   return (
@@ -17,7 +19,11 @@ export default function Home() {
         </nav>
       </header>
 
-      <main className="page-main"></main>
+      <main className="page-main">
+        <article className="legal-document">
+          <ReactMarkdown>{privacyPolicy}</ReactMarkdown>
+        </article>
+      </main>
 
       <footer className="page-footer">
         <span>© {new Date().getFullYear()} Callover</span>
