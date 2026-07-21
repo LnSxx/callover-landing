@@ -10,7 +10,7 @@ This Privacy Policy applies to Callover and its platform-specific versions, incl
 
 For privacy questions or requests, contact:
 
-Email: [email@email.com](mailto:email@email.com)
+Email: [callovercommunications@gmail.com](mailto:callovercommunications@gmail.com)
 
 In this Privacy Policy, “Callover,” “the Service,” “we,” “us,” and “our” refer to the Callover service operated by Leonid Semenov.
 
@@ -674,7 +674,7 @@ Complain to a data-protection authority.
 
 To exercise a privacy right, contact:
 
-[email@email.com](mailto:email@email.com)
+[callovercommunications@gmail.com](mailto:callovercommunications@gmail.com)
 
 We may need to verify that you control the relevant account before fulfilling a request.
 
@@ -694,7 +694,7 @@ You must not create or use a Callover account if you are under 18.
 
 We do not knowingly collect personal data from children. If we learn that a person under 18 has created an account, we may delete the account and associated data.
 
-A parent, guardian, or other person may report a suspected underage account by contacting [email@email.com](mailto:email@email.com).
+A parent, guardian, or other person may report a suspected underage account by contacting [callovercommunications@gmail.com](mailto:callovercommunications@gmail.com).
 
 ## 18. Free service and payments
 
@@ -748,4 +748,4 @@ Kyrgyz Republic
 
 Privacy contact:
 
-[email@email.com](mailto:email@email.com)
+[callovercommunications@gmail.com](mailto:callovercommunications@gmail.com)

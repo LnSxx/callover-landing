@@ -1,5 +1,11 @@
+import Layout from "../../layout/Layout";
+
 function DeleteAccountPage() {
-  return <div>Delete Account</div>;
+  return (
+    <Layout>
+      <div>Delete Account</div>
+    </Layout>
+  );
 }
 
 export default DeleteAccountPage;
